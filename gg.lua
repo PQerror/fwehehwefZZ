@@ -45,7 +45,7 @@ local neb = {
   
   local NEB = {
     "AytoIsNotHard",
-    "BWDevsStopKickingMe"
+    "BWDevsStopKickingMe",
   }
   local TextChatService = game:GetService("TextChatService")
   local Listening;
