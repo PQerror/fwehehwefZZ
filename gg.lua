@@ -1,6 +1,8 @@
 local neb = { 
   "AytoIsNotHard",
   "BWDevsStopKickingMe",
+  "NebulaWAREONTOP1pro",
+  "poybeans",
 }
 
 local priv = {
