@@ -1,0 +1,5 @@
+return {
+{name = "AytoIsNotHard", tag = 1 },
+{name = "BWDevsStopKickingMe", tag = 2 }, 
+{name = "QuadConfigsOnYT", tag = 2 }; --wearish
+}
