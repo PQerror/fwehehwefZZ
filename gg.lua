@@ -1,4 +1,4 @@
-local neb = { 
+local NEB = { 
     "AytoIsNotHard",
     "BWDevsStopKickingMe",
   }
@@ -42,11 +42,7 @@ local neb = {
       end
       return plr
   end
-  
-  local NEB = {
-    "AytoIsNotHard",
-    "BWDevsStopKickingMe",
-  }
+
   local TextChatService = game:GetService("TextChatService")
   local Listening;
   
