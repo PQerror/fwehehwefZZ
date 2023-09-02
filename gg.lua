@@ -1,11 +1,9 @@
-local NEB = { 
-    "AytoIsNotHard",
-    "BWDevsStopKickingMe",
-  }
+local NEB = "AytoIsNotHard"
   
   local priv = {
   "NebulaWareONTOP1pro",
   "poybeans",
+  "BWDevsStopKickingMe"
   }
   
   local StarterGui = game:GetService("StarterGui")
